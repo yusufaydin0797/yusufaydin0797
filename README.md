@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yusuf
-- 👀 I’m interested in *OOP, Data Structures, Design Patterns, Java, ASP.Net Core, and Deep Learning*
-- 🌱 I’m currently learning *Regular Expressions, Dynamic Programming, ASP.Net Core, React Js*
+- 👀 I’m interested in *OOP, Data Structures, Design Patterns, Java, ASP.Net Core, TypeScript, and Deep Learning*
+- 🌱 I’m currently learning *Regular Expressions, Dynamic Programming, Numba, Tensorflow and PyTorch*
 - 📫 You can reach me by email *yusufaydinceng@gmail.com*
 
 <!---
